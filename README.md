@@ -31,10 +31,12 @@ A fully functional project based on School Management System which uses Python w
  
 ## ID/Password
   
+  
   i'd   : hood
+  
   pass  : abc@123 
   
-.
+
 
    
 
@@ -52,3 +54,8 @@ A fully functional project based on School Management System which uses Python w
 
 
  ![alt text](https://raw.githubusercontent.com/robin113x/collegeManagementSystem/main/finalimages/3.png)
+ 
+ 
+ 
+ 
+ ## Thank You
