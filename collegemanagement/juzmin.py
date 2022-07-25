@@ -1,12 +1,12 @@
 JAZZMIN_SETTINGS = {
     # title of the window (Will default to current_admin_site.site_title if absent or None)
-    "site_title": "School Management System Admin",
+    "site_title": "collage Management System Admin",
 
     # Title on the login screen (19 chars max) (defaults to current_admin_site.site_header if absent or None)
-    "site_header": "School Management System",
+    "site_header": "collage Management System",
 
     # Title on the brand (19 chars max) (defaults to current_admin_site.site_header if absent or None)
-    "site_brand": "School Management System",
+    "site_brand": "collage Management System",
 
     # Logo to use for your site, must be present in static files, used for brand on top left
     "site_logo": "/src/img/sms.png",
@@ -18,10 +18,10 @@ JAZZMIN_SETTINGS = {
     "site_icon": None,
 
     # Welcome text on the login screen
-    "welcome_sign": "Welcome to the School Management System",
+    "welcome_sign": "Welcome to the college Management System",
 
     # Copyright on the footer
-    "copyright": "School Management System",
+    "copyright": "college Management System",
 
     # The model admin to search from the search bar, search bar omitted if excluded
     "search_model": "auth.User",
@@ -40,7 +40,7 @@ JAZZMIN_SETTINGS = {
         {"name": "Home",  "url": "admin:index", "permissions": ["auth.view_user"]},
 
         # external url that opens in a new window (Permissions can be added)
-        {"name": "Support", "url": "https://github.com/farridav/django-jazzmin/issues", "new_window": True},
+        {"name": "Support", "url": "https://github.com/robin113x", "new_window": True},
 
         # model admin to link to (Permissions checked against model)
         {"model": "auth.User"},
@@ -55,7 +55,7 @@ JAZZMIN_SETTINGS = {
 
     # Additional links to include in the user menu on the top right ("app" url type is not allowed)
     "usermenu_links": [
-        {"name": "Support", "url": "https://github.com/farridav/django-jazzmin/issues", "new_window": True},
+        {"name": "Support", "url": "https://github.com/robin113x", "new_window": True},
         {"model": "auth.user"}
     ],
 
