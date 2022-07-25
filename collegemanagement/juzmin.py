@@ -9,7 +9,7 @@ JAZZMIN_SETTINGS = {
     "site_brand": "collage Management System",
 
     # Logo to use for your site, must be present in static files, used for brand on top left
-    "site_logo": "/src/img/sms.png",
+    "site_logo": "/src/img/favicon.png",
 
     # CSS classes that are applied to the logo above
     "site_logo_classes": "img-circle",
@@ -127,3 +127,4 @@ JAZZMIN_SETTINGS = {
     # override change forms on a per modeladmin basis
     "changeform_format_overrides": {"auth.user": "collapsible", "auth.group": "vertical_tabs"},
 }
+
