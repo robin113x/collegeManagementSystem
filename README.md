@@ -26,7 +26,7 @@ A fully functional project based on School Management System which uses Python w
     pip install -r requirements.txt.
     python manage.py makemigrations
     python manage.py migrate
-    python manage.py runserver  --insecure
+    python manage.py runserver  
     
     
  
