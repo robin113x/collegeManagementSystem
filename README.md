@@ -14,7 +14,9 @@ A fully functional project based on School Management System which uses Python w
     CSS
     Bootstrap
     JavaScript
+    Python3
     Django
+    sqLite3
     
     
     
