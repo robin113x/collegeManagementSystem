@@ -1,3 +1,5 @@
+<div align="center">
+
 # College Management System in Python Django
 
 
@@ -62,3 +64,5 @@ A fully functional project based on School Management System which uses Python w
  
  
  ## Thank You
+ 
+ </div>
